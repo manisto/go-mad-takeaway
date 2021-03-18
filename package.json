@@ -1,4 +1,7 @@
 {
+  "workspaces": [
+    "client"
+  ],
   "name": "go-mad-takeaway",
   "version": "1.0.0",
   "description": "",
